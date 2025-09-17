@@ -1,0 +1,19 @@
+header {
+    color: #ffffff;
+    width: 1103px;
+    display: flex;
+    margin: 0 auto;
+    flex-direction: row;
+    background: gray;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px;
+}
+img {
+    width: 167px;
+}
+
+.menu {
+    width: 234px;
+
+}
